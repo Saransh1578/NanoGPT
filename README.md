@@ -2,7 +2,7 @@
 
 NanoGPT is a compact and efficient implementation of a GPT-style language model for auto-regressive text generation. Inspired by the seminal paper "Attention Is All You Need" and further guided by architectural principles from OpenAI’s GPT-2 and GPT-3 models, MiniGPT distills the core ideas into a much smaller model (~10 million parameters) that is accessible, interpretable, and fast to train.
 
-![Transformer](https://slds-lmu.github.io/seminar_nlp_ss20/img/transformer.png)
+![Transformer](https://imgs.search.brave.com/zusFtAdD1FNdeJYmTozlLBmAyBZAZcj8nTfzHyUaZLI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9saXZl/LWNvbWV0bWwucGFu/dGhlb25zaXRlLmlv/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIz/LzA3L1NjcmVlbi1T/aG90LTIwMjMtMDct/MTYtYXQtNC4zNy4w/NS1QTS5wbmc)
 
 This project focuses exclusively on the decoder-only Transformer architecture, staying faithful to the auto-regressive nature of the GPT family. It's designed for learning, experimentation, and small-scale generation tasks.
 
